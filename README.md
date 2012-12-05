@@ -20,5 +20,9 @@ Read the full [How Does This Work](https://github.com/Herhor/taskwin/wiki/How-do
 
 
 ## Requirements
- * [http://www.microsoft.com/downloads/en/details.aspx?familyid=9cfb2d51-5ff4-4491-b0e5-b386f32c0992&displaylang=en .NET Framework 4]
+ * [.NET Framework 4](http://www.microsoft.com/downloads/en/details.aspx?familyid=9cfb2d51-5ff4-4491-b0e5-b386f32c0992&displaylang=en)
  * Windows XP/Vista/7
+
+
+## Download
+[TaskWin v1.4.0.1](https://github.com/downloads/Herhor/taskwin/TaskWin.exe)
