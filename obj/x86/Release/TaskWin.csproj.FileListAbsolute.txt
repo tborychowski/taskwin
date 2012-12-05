@@ -1,0 +1,7 @@
+D:\Projects\TaskWin\release\TaskWin.exe
+D:\Projects\TaskWin\trunk\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\TaskWin\trunk\obj\x86\Release\TaskWin.TaskWinForm.resources
+D:\Projects\TaskWin\trunk\obj\x86\Release\TaskWin.Properties.Resources.resources
+D:\Projects\TaskWin\trunk\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\TaskWin\trunk\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\TaskWin\trunk\obj\x86\Release\TaskWin.exe
