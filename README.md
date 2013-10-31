@@ -10,13 +10,13 @@ A simple, text-based TODO app for Windows.
  * Extremely simple - no unnecesarry controls
  * Keyboard friendly - hit "Esc" to exit, "Enter" to switch to edit mode, "Ctrl+Enter" to save edited tasks
 
-Read the full [How Does This Work](https://github.com/Herhor/taskwin/wiki/How-does-it-work) description.
+Read the full [How Does This Work](https://github.com/tborychowski/taskwin/wiki/How-does-it-work) description.
 
 
 ## Screenshot
-![Task list](https://raw.github.com/Herhor/taskwin/master/screens/mini.png)
+![Task list](https://raw.github.com/tborychowski/taskwin/master/screens/mini.png)
 
-[See more screens](https://github.com/Herhor/taskwin/wiki).
+[See more screens](https://github.com/tborychowski/taskwin/wiki).
 
 
 ## Requirements
@@ -25,4 +25,4 @@ Read the full [How Does This Work](https://github.com/Herhor/taskwin/wiki/How-do
 
 
 ## Download
-[TaskWin v1.4.0.1](https://github.com/downloads/Herhor/taskwin/TaskWin.exe)
+[TaskWin v1.4.0.1](https://github.com/downloads/tborychowski/taskwin/TaskWin.exe)
